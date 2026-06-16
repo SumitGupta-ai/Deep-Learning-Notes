@@ -2,6 +2,6 @@
 
 **Perceptron Topic Cover**
 
-*what is perceptron*
-*core componet*
-*activation function*
+**what is perceptron**
+**core componet**
+**activation function**
