@@ -7,3 +7,5 @@
 **core componet**
 
 **activation function**
+
+**Multi-layer-perceptron**
