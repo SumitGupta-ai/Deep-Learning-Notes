@@ -9,4 +9,5 @@
 ## Forward & Back-Propagation 
 
 **Forward-Propagtion Notes**
+
 **Back-Propagation Notes**
