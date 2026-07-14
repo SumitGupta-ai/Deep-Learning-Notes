@@ -11,4 +11,5 @@
 **Forward-Propagtion Notes**
 
 **Back-Propagation Notes**
+
 **Activation Functio**
