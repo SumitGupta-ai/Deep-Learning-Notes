@@ -16,3 +16,5 @@
 ##### linear activation
 ##### sigmoid activation
 ##### TanH activation
+##### Relu activation
+##### Lekyrelu activation
