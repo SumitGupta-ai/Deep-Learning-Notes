@@ -13,6 +13,6 @@
 **Back-Propagation Notes**
 
 **Activation Function Notes**
-### linar activation
+###### linar activation
 ### sigmodi activation
 ### TanH activation
