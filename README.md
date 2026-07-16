@@ -12,4 +12,4 @@
 
 **Back-Propagation Notes**
 
-**Activation Function**
+**Activation Function Notes**
