@@ -1,7 +1,7 @@
 # Deep-Learning-Notes
 
 **Perceptron Topic Cover**
-1. what is perceptrons
+1. what is perceptron
 2. core components
 3. activation functions
 
