@@ -13,8 +13,8 @@
 **Back-Propagation Notes**
 
 **Activation Function Notes**
-##### linear activation
-##### sigmoid activation
-##### TanH activation
-##### Relu activation
-##### Lekyrelu activation
+##### (1) linear activation
+##### (2) sigmoid activation
+##### (3) TanH activation
+##### (4) Relu activation
+##### (5) Lekyrelu activation
