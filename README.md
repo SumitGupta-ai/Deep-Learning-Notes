@@ -2,8 +2,8 @@
 
 **Perceptron Topic Cover**
 1. what is perceptrons
-2. core componett
-3. activation function
+2. core components
+3. activation functions
 
 
 ## Forward & Back-Propagation 
